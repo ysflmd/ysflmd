@@ -3,13 +3,14 @@
 I'm an engineering student at Tallinn University of Technology (TalTech), interested in the intersection of engineering, software development, robotics, and artificial intelligence.
 
 I enjoy exploring how software and intelligent systems can solve (and sometimes create)real world engineering problems.
-🛠️ Technical Skills
+
+🛠️ ## Skills
 
 Programming & Data: Python · MATLAB · SQL
 
 Engineering & Simulation: SolidWorks · FluidSIM
 
-🔭 Areas of Interest
+🔭 ## Areas of Interest
 
 Artificial Intelligence & Machine Learning
 
