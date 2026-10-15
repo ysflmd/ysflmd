@@ -1,4 +1,16 @@
-## Hi there 👋
+## Heyyy, I'm Yousef 👋
+I'm an engineering student at Tallinn University of Technology (TalTech), interested in the intersection of engineering, software development, robotics, and artificial intelligence.
+I enjoy exploring how software and intelligent systems can solve real-world engineering problems.
+Areas of interest
+- Software development and automation
+- Robotics and control systems
+- Artificial intelligence and machine learning
+- Engineering simulation and optimization
+Currently
+Studying engineering at TalTech and developing practical projects combining software and engineering.
+Connect
+ Tallinn, Estonia
+ github.com/ysflmd
 
 <!--
 **ysflmd/ysflmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
